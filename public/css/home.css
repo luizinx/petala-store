@@ -1,0 +1,17 @@
+main {
+    display: grid;
+    margin: 10px 0px 20px 0px;;
+}
+
+
+
+
+.i {
+    display: grid;
+    background-color: blue;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+
